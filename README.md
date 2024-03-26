@@ -12,6 +12,8 @@ Welcome to the Flutter News App, a mobile application designed to keep users inf
 - **Article Detail View:** View detailed information about each article, including the author, title, description, and publication date.
 - **Cached Network Images:** Images associated with news articles are efficiently loaded and cached for improved performance.
 - **Responsive Design:** The app is designed to work seamlessly across different screen sizes and orientations.
+- **Free API Integration:** Utilizes a free API to fetch news data, ensuring access to up-to-date information without any cost to users.
+- **Dark Theme Support:** Enjoy a comfortable reading experience in low-light environments with built-in dark theme support.
 
 ## Installation:
 
