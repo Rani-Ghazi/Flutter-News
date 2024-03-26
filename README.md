@@ -4,7 +4,7 @@ Welcome to the Flutter News App, a mobile application designed to keep users inf
 
 ## App Preview:
 
-![App Preview](/NewsApp.jpg)
+![App Preview](NewsApp.jpg)
 
 ## Features:
 
